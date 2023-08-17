@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="condition">Weather: %1$s</string>
+    <string name="maxwind_kph">Max wind in kph: %1$s</string>
+    <string name="avghumidity">Avghumidity: %1$s</string>
+</resources>
